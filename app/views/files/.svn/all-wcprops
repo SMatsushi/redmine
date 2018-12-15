@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/files
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/files/index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/files/new.html.erb
+END
+index.api.rsb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/files/index.api.rsb
+END

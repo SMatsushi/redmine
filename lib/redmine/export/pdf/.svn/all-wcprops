@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/export/pdf
+END
+issues_pdf_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/export/pdf/issues_pdf_helper.rb
+END
+wiki_pdf_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/export/pdf/wiki_pdf_helper.rb
+END

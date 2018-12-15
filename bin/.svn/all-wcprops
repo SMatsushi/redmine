@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/redmine/!svn/ver/16686/branches/3.4-stable/bin
+END
+rake
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/redmine/!svn/ver/16686/branches/3.4-stable/bin/rake
+END
+bundle
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/redmine/!svn/ver/16686/branches/3.4-stable/bin/bundle
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/16686/branches/3.4-stable/bin/about
+END
+rails
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/redmine/!svn/ver/16686/branches/3.4-stable/bin/rails
+END

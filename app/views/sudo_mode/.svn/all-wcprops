@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/sudo_mode
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/sudo_mode/new.html.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/sudo_mode/new.js.erb
+END
+_new_modal.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/sudo_mode/_new_modal.html.erb
+END

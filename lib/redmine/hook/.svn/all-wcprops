@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/hook
+END
+view_listener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/hook/view_listener.rb
+END
+listener.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/hook/listener.rb
+END

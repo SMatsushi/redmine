@@ -1,0 +1,37 @@
+10
+
+dir
+17629
+https://svn.redmine.org/redmine/branches/3.4-stable/extra/sample_plugin/app
+https://svn.redmine.org/redmine
+
+
+
+2018-01-10T08:40:14.638532Z
+17171
+maeda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+models
+dir
+
+controllers
+dir
+
+views
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/nested_set
+END
+project_nested_set.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/nested_set/project_nested_set.rb
+END
+traversing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/nested_set/traversing.rb
+END
+issue_nested_set.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/nested_set/issue_nested_set.rb
+END

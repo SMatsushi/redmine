@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/redmine/!svn/ver/16686/branches/3.4-stable/test/coverage/views
+END
+source.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/redmine/!svn/ver/16686/branches/3.4-stable/test/coverage/views/source.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/16686/branches/3.4-stable/test/coverage/views/index.erb
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/17210/branches/3.4-stable/app/views/principal_memberships
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/edit.html.erb
+END
+_index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/_index.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/new.html.erb
+END
+update.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/update.js.erb
+END
+_new_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/redmine/!svn/ver/17210/branches/3.4-stable/app/views/principal_memberships/_new_form.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/create.js.erb
+END
+edit.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/edit.js.erb
+END
+destroy.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/destroy.js.erb
+END
+new.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/new.js.erb
+END
+_edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/_edit.html.erb
+END
+_new_modal.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/principal_memberships/_new_modal.html.erb
+END

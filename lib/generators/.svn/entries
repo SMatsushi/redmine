@@ -1,0 +1,37 @@
+10
+
+dir
+17629
+https://svn.redmine.org/redmine/branches/3.4-stable/lib/generators
+https://svn.redmine.org/redmine
+
+
+
+2018-01-08T17:54:28.252317Z
+17161
+jplang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+redmine_plugin
+dir
+
+redmine_plugin_model
+dir
+
+redmine_plugin_controller
+dir
+

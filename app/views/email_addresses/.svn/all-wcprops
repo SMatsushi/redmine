@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/email_addresses
+END
+_index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/email_addresses/_index.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/email_addresses/index.html.erb
+END
+index.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/email_addresses/index.js.erb
+END

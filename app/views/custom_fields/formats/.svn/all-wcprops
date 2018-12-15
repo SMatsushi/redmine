@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats
+END
+_string.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_string.html.erb
+END
+_attachment.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_attachment.html.erb
+END
+_regexp.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_regexp.html.erb
+END
+_bool.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_bool.html.erb
+END
+_list.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_list.html.erb
+END
+_date.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_date.html.erb
+END
+_link.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_link.html.erb
+END
+_user.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_user.html.erb
+END
+_numeric.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_numeric.html.erb
+END
+_enumeration.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_enumeration.erb
+END
+_text.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_text.html.erb
+END
+_version.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_fields/formats/_version.html.erb
+END

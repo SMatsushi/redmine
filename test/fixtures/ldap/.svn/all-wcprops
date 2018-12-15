@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/16686/branches/3.4-stable/test/fixtures/ldap
+END
+slapd.centos6.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/redmine/!svn/ver/16686/branches/3.4-stable/test/fixtures/ldap/slapd.centos6.conf
+END
+slapd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/16686/branches/3.4-stable/test/fixtures/ldap/slapd.conf
+END
+test-ldap.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/16686/branches/3.4-stable/test/fixtures/ldap/test-ldap.ldif
+END
+slapd.ubuntu.12.04.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/redmine/!svn/ver/16686/branches/3.4-stable/test/fixtures/ldap/slapd.ubuntu.12.04.conf
+END

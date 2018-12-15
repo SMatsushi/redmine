@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/redmine/!svn/ver/17553/branches/3.4-stable/public/javascripts
+END
+context_menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/context_menu.js
+END
+project_identifier.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/project_identifier.js
+END
+attachments.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/16996/branches/3.4-stable/public/javascripts/attachments.js
+END
+raphael.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/raphael.js
+END
+gantt.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/gantt.js
+END
+responsive.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/responsive.js
+END
+repository_navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/repository_navigation.js
+END
+revision_graph.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/revision_graph.js
+END
+application.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/17273/branches/3.4-stable/public/javascripts/application.js
+END
+jquery-1.11.1-ui-1.11.0-ujs-3.1.4.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/16686/branches/3.4-stable/public/javascripts/jquery-1.11.1-ui-1.11.0-ujs-3.1.4.js
+END

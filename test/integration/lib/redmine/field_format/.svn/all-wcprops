@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/redmine/!svn/ver/16686/branches/3.4-stable/test/integration/lib/redmine/field_format
+END
+attachment_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/redmine/!svn/ver/16686/branches/3.4-stable/test/integration/lib/redmine/field_format/attachment_format_test.rb
+END

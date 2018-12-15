@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/redmine/!svn/ver/17627/branches/3.4-stable/lib
+END
+redmine.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/redmine/!svn/ver/17361/branches/3.4-stable/lib/redmine.rb
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/diff.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/export
+END
+pdf_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/export/pdf_test.rb
+END
+csv_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/export/csv_test.rb
+END

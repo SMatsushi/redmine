@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui
+END
+my_page_test_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui/my_page_test_ui.rb
+END
+issues_test_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui/issues_test_ui.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui/base.rb
+END
+sudo_mode_test_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui/sudo_mode_test_ui.rb
+END
+timelog_test_ui.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/16686/branches/3.4-stable/test/ui/timelog_test_ui.rb
+END

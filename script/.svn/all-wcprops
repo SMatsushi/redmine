@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/redmine/!svn/ver/16686/branches/3.4-stable/script
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/redmine/!svn/ver/16686/branches/3.4-stable/script/about
+END
+rails
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/redmine/!svn/ver/16686/branches/3.4-stable/script/rails
+END

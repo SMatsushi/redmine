@@ -1,0 +1,61 @@
+10
+
+dir
+17629
+https://svn.redmine.org/redmine/branches/3.4-stable/lib/plugins
+https://svn.redmine.org/redmine
+
+
+
+2017-06-25T08:40:31.135766Z
+16685
+jplang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e93f8b46-1217-0410-a6f0-8f06a7374b81
+
+acts_as_activity_provider
+dir
+
+acts_as_attachable
+dir
+
+acts_as_searchable
+dir
+
+acts_as_watchable
+dir
+
+gravatar
+dir
+
+acts_as_list
+dir
+
+acts_as_versioned
+dir
+
+acts_as_tree
+dir
+
+open_id_authentication
+dir
+
+acts_as_customizable
+dir
+
+acts_as_event
+dir
+

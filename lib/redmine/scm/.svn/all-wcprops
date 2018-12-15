@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/redmine/!svn/ver/17475/branches/3.4-stable/lib/redmine/scm
+END
+adapters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/scm/adapters.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/redmine/!svn/ver/16686/branches/3.4-stable/lib/redmine/scm/base.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_field_enumerations
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_field_enumerations/index.html.erb
+END
+destroy.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_field_enumerations/destroy.html.erb
+END
+create.js.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/custom_field_enumerations/create.js.erb
+END

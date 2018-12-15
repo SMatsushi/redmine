@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/acts
+END
+positioned_with_scope_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/acts/positioned_with_scope_test.rb
+END
+positioned_without_scope_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/acts/positioned_without_scope_test.rb
+END

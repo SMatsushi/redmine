@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/redmine/!svn/ver/17159/branches/3.4-stable/test/unit/lib/redmine/field_format
+END
+enumeration_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/enumeration_format_test.rb
+END
+attachment_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/attachment_format_test.rb
+END
+version_field_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/version_field_format_test.rb
+END
+bool_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/bool_format_test.rb
+END
+list_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/list_format_test.rb
+END
+link_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/link_format_test.rb
+END
+attachment_format_visibility_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/redmine/!svn/ver/17159/branches/3.4-stable/test/unit/lib/redmine/field_format/attachment_format_visibility_test.rb
+END
+user_field_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/user_field_format_test.rb
+END
+numeric_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/numeric_format_test.rb
+END
+field_format_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/redmine/!svn/ver/16686/branches/3.4-stable/test/unit/lib/redmine/field_format/field_format_test.rb
+END

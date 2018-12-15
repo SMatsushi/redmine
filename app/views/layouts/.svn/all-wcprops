@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/redmine/!svn/ver/17278/branches/3.4-stable/app/views/layouts
+END
+admin.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/layouts/admin.html.erb
+END
+mailer.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/layouts/mailer.html.erb
+END
+mailer.text.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/layouts/mailer.text.erb
+END
+base.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/redmine/!svn/ver/17278/branches/3.4-stable/app/views/layouts/base.html.erb
+END
+_file.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/redmine/!svn/ver/16686/branches/3.4-stable/app/views/layouts/_file.html.erb
+END
